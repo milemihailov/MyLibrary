@@ -1,0 +1,11 @@
+<resources>
+    <string name="txtName">My Library</string>
+    <string name="app_name">My Library</string>
+    <string name="btnAllBooks">See All Books</string>
+    <string name="btnCurrentlyReading">Currently Reading Books</string>
+    <string name="btnAlreadyRead">Already Read Books</string>
+    <string name="btnWantToRead">Your Wishlist</string>
+    <string name="btnFavorite">See Your Favorites</string>
+    <string name="btnAbout">ABOUT</string>
+    <string name="txtLicence">Developed By Mile Mihailov</string>
+</resources>
